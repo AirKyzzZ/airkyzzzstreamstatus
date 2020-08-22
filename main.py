@@ -19,5 +19,4 @@ async def on_connect():
 
 
 keep_alive.keep_alive()
-client.run(os.getenv("NzA5MDUwNzg0MDM3MzM5MjE4.Xz-T7A.AfyRp4WaeX5YvPeQJoiYViPiQ0U"), bot=False)
-
+client.run("NzA5MDUwNzg0MDM3MzM5MjE4.Xz-T7A.AfyRp4WaeX5YvPeQJoiYViPiQ0U"), bot=False)
